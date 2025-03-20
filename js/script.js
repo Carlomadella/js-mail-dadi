@@ -33,3 +33,19 @@ else{
     console.log("Sei tra gli invitati, ci vediamo venerdì alle 18");
 }
 
+// Esercizio 2: Dadi
+// Generare un numero random da 1 a 6 sia per il giocatore sia per il computer. 
+// Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+// Note:
+// Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un array da qualche parte? Se dobbiamo confrontare qualcosa che "cosa" ci serve?
+
+// creata variabile per contenere il numero dell'utente generato randomicamente
+let userNum = Math.floor((Math.random() *6) +1)
+// creata variabile per contenere il numero dell'utente generato randomicamente
+let pcNum = Math.floor((Math.random() *6) +1)
+// stampa numero dell'utente
+console.log(userNum);
+// stampa numero del computer
+console.log(pcNum);
+
