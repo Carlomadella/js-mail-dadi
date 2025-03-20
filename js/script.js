@@ -49,3 +49,14 @@ console.log(userNum);
 // stampa numero del computer
 console.log(pcNum);
 
+if (userNum>pcNum) {
+    console.log("Hai vinto!");
+}
+
+else if(userNum<pcNum){
+    console.log("Ritenta sarai più fortunato");
+}
+
+else{
+    console.log("Hai pareggiato");
+}
