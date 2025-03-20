@@ -1,4 +1,5 @@
-<!-- Ciao ragazzi,
+<!-- 
+Ciao ragazzi,
 Esercizio di oggi: Email e dati
 nome repo: js-mail-dadi
 Mail
@@ -11,12 +12,9 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 javascript non fa nulla da solo, dobbiamo dirgli noi cosa vogliamo fare
 si ma noi cosa vogliamo fare?
 torniamo a scrivere in italiano
-proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano" -->
+proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano" 
 
-Scaletta Mail:
 
-1. Creare una array con lista di email di invitati ad una festa.
-2. Chiedere all’utente la sua email
-3. controllare che sia nella lista di chi può accedere.
-4. Stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for. 
-Nota: Non è necessario provvedere alla validazione delle email
+Numero minimo di push: 6
+-->
+
