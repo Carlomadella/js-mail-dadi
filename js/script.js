@@ -26,4 +26,10 @@ for (let i = 0; i < mailList.length; i++) {
     }
 }
 
+if (checkList == false) {
+    console.log("Non sei presente tra la lista degli invitati");
+}
+else{
+    console.log("Sei tra gli invitati, ci vediamo venerdì alle 18");
+}
 
